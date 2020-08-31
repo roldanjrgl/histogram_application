@@ -1,0 +1,610 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 JUL 2018 08:21
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Exercise1.tex
+(./Exercise1.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count87
+\calc@Bcount=\count88
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count89
+\calc@Cskip=\skip45
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks16
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count102
+\l_MT_multwidth_dim=\dimen114
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen115
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen116
+\l_MT_above_intertext_sep=\dimen117
+\l_MT_below_intertext_sep=\dimen118
+\l_MT_above_shortintertext_sep=\dimen119
+\l_MT_below_shortintertext_sep=\dimen120
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@tempdima=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
+)
+\c@ContinuedFloat=\count104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count105
+\c@subtable=\count106
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen130
+\Gm@wd@mp=\dimen131
+\Gm@odd@mp=\dimen132
+\Gm@even@mp=\dimen133
+\Gm@layoutwidth=\dimen134
+\Gm@layoutheight=\dimen135
+\Gm@layouthoffset=\dimen136
+\Gm@layoutvoffset=\dimen137
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks23
+\footnotemargin=\dimen138
+\c@pp@next@reset=\count111
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+(./Exercise1.aux)
+\openout1 = `Exercise1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 17.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen139
+\scratchbox=\box30
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen140
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(63.87643pt, 469.75499pt, 63.87645pt)
+* v-part:(T,H,B)=(48.93872pt, 722.7pt, 73.40813pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.75499pt
+* \textheight=722.7pt
+* \oddsidemargin=-8.39355pt
+* \evensidemargin=-8.39355pt
+* \topmargin=-60.33127pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \celsius on input line 17.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 17.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 17.
+Package gensymb Info: Using \Omega for \ohm on input line 17.
+
+Package gensymb Warning: Not defining \micro.
+
+Package ragged2e Info: ABD: executing \RaggedRight on input line 17.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 17.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+(./Exercise1.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `Exercise1.toc'.
+
+ [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Exer
+cise1.lof)
+\tf@lof=\write4
+\openout4 = `Exercise1.lof'.
+
+ [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+
+<pieChartExample.jpeg, id=11, 941.5175pt x 427.5975pt>
+File: pieChartExample.jpeg Graphic file (type jpg)
+
+<use pieChartExample.jpeg>
+Package pdftex.def Info: pieChartExample.jpeg used on input line 58.
+(pdftex.def)             Requested size: 483.69684pt x 219.67688pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
+[3 <./pieChartExample.jpeg>]
+<pieChartPart1.jpeg, id=17, 1610.015pt x 833.1125pt>
+File: pieChartPart1.jpeg Graphic file (type jpg)
+ <use pieChartPart1.jpeg>
+Package pdftex.def Info: pieChartPart1.jpeg used on input line 79.
+(pdftex.def)             Requested size: 483.69684pt x 250.29163pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 79--80
+ [][] 
+ []
+
+<pieChartPart2.jpeg, id=18, 1608.0075pt x 1176.395pt>
+File: pieChartPart2.jpeg Graphic file (type jpg)
+ <use pieChartPart2.jpeg>
+Package pdftex.def Info: pieChartPart2.jpeg used on input line 88.
+(pdftex.def)             Requested size: 483.69684pt x 353.85464pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 88--89
+ [][] 
+ []
+
+[4 <./pieChartPart1.jpeg>]
+<pieChartPart3.jpeg, id=22, 1593.955pt x 1152.305pt>
+File: pieChartPart3.jpeg Graphic file (type jpg)
+ <use pieChartPart3.jpeg>
+Package pdftex.def Info: pieChartPart3.jpeg used on input line 96.
+(pdftex.def)             Requested size: 483.69684pt x 349.66786pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 96--97
+ [][] 
+ []
+
+[5 <./pieChartPart2.jpeg>] <pieChartPart4.jpeg, id=26, 1610.015pt x 1003.75pt>
+File: pieChartPart4.jpeg Graphic file (type jpg)
+
+<use pieChartPart4.jpeg>
+Package pdftex.def Info: pieChartPart4.jpeg used on input line 104.
+(pdftex.def)             Requested size: 483.69684pt x 301.55617pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+[6 <./pieChartPart3.jpeg> <./pieChartPart4.jpeg>]
+<shape1.jpeg, id=30, 1610.015pt x 1158.3275pt>
+File: shape1.jpeg Graphic file (type jpg)
+ <use shape1.jpeg>
+Package pdftex.def Info: shape1.jpeg used on input line 129.
+(pdftex.def)             Requested size: 483.69684pt x 347.99582pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 129--130
+ [][] 
+ []
+
+[7] <shape2.jpeg, id=35, 1610.015pt x 564.1075pt>
+File: shape2.jpeg Graphic file (type jpg)
+ <use shape2.jpeg>
+Package pdftex.def Info: shape2.jpeg used on input line 137.
+(pdftex.def)             Requested size: 483.69684pt x 169.47456pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 137--138
+ [][] 
+ []
+
+<circle1.jpeg, id=36, 1608.0075pt x 1156.32pt>
+File: circle1.jpeg Graphic file (type jpg)
+ <use circle1.jpeg>
+Package pdftex.def Info: circle1.jpeg used on input line 146.
+(pdftex.def)             Requested size: 483.69684pt x 347.81616pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 146--147
+ [][] 
+ []
+
+[8 <./shape1.jpeg> <./shape2.jpeg>]
+<DrawPieChartControllerPart1.jpeg, id=40, 1608.0075pt x 941.5175pt>
+File: DrawPieChartControllerPart1.jpeg Graphic file (type jpg)
+
+<use DrawPieChartControllerPart1.jpeg>
+Package pdftex.def Info: DrawPieChartControllerPart1.jpeg used on input line 15
+4.
+(pdftex.def)             Requested size: 483.69684pt x 283.20448pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 154--155
+ [][] 
+ []
+
+<DrawPieChartControllerPart2.jpeg, id=41, 1610.015pt x 666.49pt>
+File: DrawPieChartControllerPart2.jpeg Graphic file (type jpg)
+
+<use DrawPieChartControllerPart2.jpeg>
+Package pdftex.def Info: DrawPieChartControllerPart2.jpeg used on input line 16
+2.
+(pdftex.def)             Requested size: 483.69684pt x 200.23329pt.
+
+Overfull \hbox (13.94185pt too wide) in paragraph at lines 162--163
+ [][] 
+ []
+
+[9 <./circle1.jpeg> <./DrawPieChartControllerPart1.jpeg>]
+<DrawPieChart.jpeg, id=45, 1608.0075pt x 680.5425pt>
+File: DrawPieChart.jpeg Graphic file (type jpg)
+ <use DrawPieChart.jpeg>
+Package pdftex.def Info: DrawPieChart.jpeg used on input line 172.
+(pdftex.def)             Requested size: 540.60236pt x 228.78532pt.
+
+Overfull \hbox (70.84737pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+[10 <./DrawPieChartControllerPart2.jpeg> <./DrawPieChart.jpeg>]
+<histogramLettersPart1.jpeg, id=49, 1610.015pt x 1065.9825pt>
+File: histogramLettersPart1.jpeg Graphic file (type jpg)
+
+<use histogramLettersPart1.jpeg>
+Package pdftex.def Info: histogramLettersPart1.jpeg used on input line 202.
+(pdftex.def)             Requested size: 540.60236pt x 357.92369pt.
+
+Overfull \hbox (70.84737pt too wide) in paragraph at lines 202--203
+ [][] 
+ []
+
+<histogramLettersPart2.jpeg, id=50, 1610.015pt x 1063.975pt>
+File: histogramLettersPart2.jpeg Graphic file (type jpg)
+
+<use histogramLettersPart2.jpeg>
+Package pdftex.def Info: histogramLettersPart2.jpeg used on input line 209.
+(pdftex.def)             Requested size: 540.60236pt x 357.24963pt.
+
+Overfull \hbox (70.84737pt too wide) in paragraph at lines 209--210
+ [][] 
+ []
+
+[11 <./histogramLettersPart1.jpeg>]
+<histogramLettersPart3.jpeg, id=54, 1610.015pt x 728.7225pt>
+File: histogramLettersPart3.jpeg Graphic file (type jpg)
+
+<use histogramLettersPart3.jpeg>
+Package pdftex.def Info: histogramLettersPart3.jpeg used on input line 216.
+(pdftex.def)             Requested size: 540.60236pt x 244.6823pt.
+
+Overfull \hbox (70.84737pt too wide) in paragraph at lines 216--217
+ [][] 
+ []
+
+[12 <./histogramLettersPart2.jpeg> <./histogramLettersPart3.jpeg>]
+<resultPieChart.jpeg, id=58, 1206.5075pt x 1324.95pt>
+File: resultPieChart.jpeg Graphic file (type jpg)
+
+<use resultPieChart.jpeg>
+Package pdftex.def Info: resultPieChart.jpeg used on input line 231.
+(pdftex.def)             Requested size: 512.1496pt x 562.41904pt.
+
+Overfull \hbox (42.3946pt too wide) in paragraph at lines 231--232
+ [][] 
+ []
+
+[13] <outputFrequencies.jpeg, id=63, 582.175pt x 897.3525pt>
+File: outputFrequencies.jpeg Graphic file (type jpg)
+
+<use outputFrequencies.jpeg>
+Package pdftex.def Info: outputFrequencies.jpeg used on input line 243.
+(pdftex.def)             Requested size: 284.52756pt x 438.57008pt.
+ [14 <./resultPieChart.jpeg>]
+<OutputProbabilities.jpeg, id=67, 668.4975pt x 837.1275pt>
+File: OutputProbabilities.jpeg Graphic file (type jpg)
+
+<use OutputProbabilities.jpeg>
+Package pdftex.def Info: OutputProbabilities.jpeg used on input line 255.
+(pdftex.def)             Requested size: 284.52756pt x 356.30458pt.
+ [15 <./outputFrequencies.jpeg>] [16 <./OutputProbabilities.jpeg>] [17] (./Exer
+cise1.aux) ) 
+Here is how much of TeX's memory you used:
+ 4696 strings out of 492995
+ 73571 string characters out of 6132704
+ 143613 words of memory out of 5000000
+ 8150 multiletter control sequences out of 15000+600000
+ 18554 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,6n,39p,879b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Exercise1.pdf (17 pages, 4565574 bytes).
+PDF statistics:
+ 93 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
